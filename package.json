@@ -1,0 +1,31 @@
+{
+  "name": "nulurnAssignment",
+  "version": "1.0.0",
+  "description": "A jwt based user registration and authentication system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SaikAT Mondal",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.982.0",
+    "base-64": "^0.1.0",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "express-validator": "^6.4.0",
+    "firebase-admin": "^9.11.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-redis": "^6.0.0",
+    "md5": "^2.2.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.12.8",
+    "nodemailer": "^6.4.2",
+    "redis": "^3.1.2"
+  }
+}
