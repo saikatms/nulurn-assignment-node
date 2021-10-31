@@ -38,6 +38,7 @@ Backend endpoints:
 /api/sign-up
 /api/login
 /api/search-user (Required Login)
+/api/logout
 ```
 
 ```
